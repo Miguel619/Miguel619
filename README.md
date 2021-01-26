@@ -37,9 +37,9 @@
 
 [1]: https://twitter.com/MiggyOverload
 [2]: https://www.linkedin.com/in/miguelmellado619/
-[3]: 
-[4]: 
-[5]: 
+[3]: https://twitter.com/MiggyOverload
+[4]: https://twitter.com/MiggyOverload
+[5]: https://twitter.com/MiggyOverload
 [6]: https://github.com/Miguel619
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
