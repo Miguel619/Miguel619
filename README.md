@@ -10,12 +10,8 @@ I am currently working on:
 
 It is my last semester at San Francisco State so I am very excited to display my work!
 
-### Example
+### Follow My Progress
 Follow me on [![alt text][1.1]][1] for updates on my work!
-
-### What's included
-
-You have access to icons with padding, and icons without padding.
 
 # Socials
 Twitter Linkedin and Github links
