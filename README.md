@@ -1,15 +1,15 @@
 
 
 # Welcome to my Github Profile!
-I am currently working on:
-- [Artificial Intelligence Projects](https://github.com/Miguel619/AI_Work)
-- Multiplayer Game Development In AR & VR 
-- Multimedia Application Development
-- Visual Representation of Data
-- [Programming Paradigms and Languages](https://github.com/Miguel619/Programming_Paradigms-and_Languages)
-- Web Development using flask and other frameworks
+:pushpin: I am currently working on:
+- [Artificial Intelligence Projects](https://github.com/Miguel619/AI_Work) :bulb:
+- Multiplayer Game Development In AR & VR :video_game:
+- Multimedia Application Development :iphone:
+- Visual Representation of Data :chart_with_upwards_trend:
+- [Programming Paradigms and Languages](https://github.com/Miguel619/Programming_Paradigms-and_Languages) :file_folder:
+- Web Development using flask and other frameworks :shipit:
 
-`It is my last semester at San Francisco State so I am very excited to display my work!`
+`It is my last semester at San Francisco State so I am very excited to display my work!` :mortar_board:
 
 ## Follow My Progress
 Follow me on [![alt text][1.1]][1] for updates on my work!
