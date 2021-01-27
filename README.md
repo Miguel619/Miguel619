@@ -5,7 +5,7 @@
 - [Artificial Intelligence Projects](https://github.com/Miguel619/AI_Work) :bulb:
 - Multiplayer Game Development In AR & VR :video_game:
 - Multimedia Application Development :iphone:
-- Visual Representation of Data :chart_with_upwards_trend:
+- Visual Representation of Big Data :chart_with_upwards_trend:
 - [Programming Paradigms and Languages](https://github.com/Miguel619/Programming_Paradigms-and_Languages) :file_folder:
 - Web Development using flask and other frameworks :shipit:
 
