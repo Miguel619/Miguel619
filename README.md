@@ -20,6 +20,8 @@ Twitter Linkedin and Github links
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
 
+~~Yes it's a FB icon but I will find linkin icon eventually~~
+
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
