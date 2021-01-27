@@ -14,7 +14,7 @@
 ## Follow My Progress
 Follow me on [![alt text][1.1]][1] for updates on my work!
 
-## Socials
+## Socials :calling:
 Twitter Linkedin and Github links
 
 [![alt text][1.1]][1]
