@@ -1,19 +1,32 @@
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!-- display the social media buttons in your README -->
+
+# Welcome to my Github Profile [![alt text][1.1]][1][![alt text][2.1]][2][![alt text][6.1]][6]
+I am currently working on:
+- [Artificial Intelligence Projects](https://github.com/Miguel619/AI_Work)
+- Multiplayer Game Development In AR & VR 
+- Multimedia Application Development
+- Visual Representation of Data
+- Programming Paradigms and Languages
+
+It is my last semester at San Francisco State so I am very excited to display my work!
+
+### Example
+Follow me on [![alt text][1.1]][1] for updates on my work!
+
+### What's included
+
+You have access to icons with padding, and icons without padding.
+
+# Socials
+Twitter Linkedin and Github links
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
 
-<!-- icons with padding -->
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
@@ -43,37 +56,3 @@
 [6]: https://github.com/Miguel619
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-## Add social media links to your GitHub README
-Want to add some flare to your README? How about getting mad followers on Twitter?
-
-Easy: Fork this repo and it with your own social media URLs. You can then copy / paste the social media icons into any of your project's README and you're done!
-
-### Example
-Follow me on [![alt text][1.1]][1]
-
-### What's included
-
-You have access to icons with padding, and icons without padding.
-
-#### Icons with padding
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-#### Without padding—great to use in a sentence [![alt text][1.2]][1]
-
-[![alt text][1.2]][1]
-[![alt text][2.2]][2]
-[![alt text][3.2]][3]
-[![alt text][4.2]][4]
-[![alt text][5.2]][5]
-[![alt text][6.2]][6]
-
-
-### Credit
-Special thanks to [Entypo](http://www.entypo.com/) for the icons and to [Imgur](http://imgur.com/tXSoThF,1AGmwO3,yCsTjba,0o48UoR,P3YfQoD,YckIOms#0) [for hosting them](http://imgur.com/Vvy3Kru,fep1WsG,9I6NRUm,VlgBKQ9,jDRp47c,wWzX9uB).
