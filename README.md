@@ -6,14 +6,14 @@ I am currently working on:
 - Multiplayer Game Development In AR & VR 
 - Multimedia Application Development
 - Visual Representation of Data
-- Programming Paradigms and Languages
+- [Programming Paradigms and Languages](https://github.com/Miguel619/Programming_Paradigms-and_Languages)
 
 It is my last semester at San Francisco State so I am very excited to display my work!
 
-### Follow My Progress
+## Follow My Progress
 Follow me on [![alt text][1.1]][1] for updates on my work!
 
-# Socials
+## Socials
 Twitter Linkedin and Github links
 
 [![alt text][1.1]][1]
