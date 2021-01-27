@@ -1,6 +1,6 @@
 
 
-# Welcome to my Github Profile [![alt text][1.1]][1][![alt text][2.1]][2][![alt text][6.1]][6]
+# Welcome to my Github Profile!
 I am currently working on:
 - [Artificial Intelligence Projects](https://github.com/Miguel619/AI_Work)
 - Multiplayer Game Development In AR & VR 
