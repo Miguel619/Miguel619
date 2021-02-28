@@ -11,9 +11,6 @@
 
 `It is my last semester at San Francisco State so I am very excited to display my work!` :mortar_board:
 
-## Follow My Progress
-Follow me on [![alt text][1.1]][1] for updates on my work!
-
 ## Socials :calling:
 **Twitter | Linkedin | Github links**
 
