@@ -12,7 +12,6 @@
 `It is my last semester at San Francisco State so I am very excited to display my work!` :mortar_board:
 
 ## Socials :calling:
-**Twitter | Linkedin | Github links**
 
 [![alt text][1.1]][1]     [![alt text][2.1]][2]    [![alt text][6.1]][6]
 
