@@ -17,9 +17,8 @@ Follow me on [![alt text][1.1]][1] for updates on my work!
 ## Socials :calling:
 **Twitter | Linkedin | Github links**
 
-[![alt text][1.1]][1]     - - - -   [![alt text][2.1]][2]     - - - -   [![alt text][6.1]][6]
+[![alt text][1.1]][1]     [![alt text][2.1]][2]    [![alt text][6.1]][6]
 
-~~Yes it's a FB icon but I will a find linkin icon eventually~~
 
 
 
